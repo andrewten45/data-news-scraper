@@ -30,4 +30,3 @@ print(get_titles('eCommerce'))
 # Note that convention in python is 'snake_case' for file names
 # Rename this file to news_scraper and move it to a new directory 'news-scraper'
 # Create a new file 'test_news_scraper' within a new directory 'tests'
-# Create __init__ files
